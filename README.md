@@ -2,8 +2,8 @@
 **Track 04: The County Budget Watchdog** // *Built by Vaulted Logic*
 
 ### Live Demos
-* **Frontend UI:**(https://gdg-nairobi-ai-build.web.app)
-* **Backend API:**(https://watchdog-api-1021200580207.europe-west1.run.app)
+* **Frontend UI:** https://gdg-nairobi-ai-build.web.app
+* **Backend API:** https://watchdog-api-1021200580207.europe-west1.run.app
 
 ### The Problem
 Citizens lack the technical expertise to parse 400-page county budget PDFs, allowing millions in public funds to be secretly reallocated without accountability. 
